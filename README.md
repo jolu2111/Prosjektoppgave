@@ -1,5 +1,5 @@
-# Hei!
-
+# Project Work autumn 2024!
+**TBM4500**
 Dette er en mappe som inneholder alt kodearbeidet jeg har jobbet med i forbindelse med maskinlæringsprosjektet mitt høsten 2024. Jeg skal skrive om hybrid maskinlæring innen geotekniske problemstillinger, og mer spesifikk oppgave blir litt til mens jeg jobber. 
 
 ## Status foreløpig:
